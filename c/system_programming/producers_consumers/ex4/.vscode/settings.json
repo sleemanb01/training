@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "words": "c",
-        "stdio.h": "c",
-        "cmath": "c",
-        "stdlib.h": "c"
-    }
-}
