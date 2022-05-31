@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "words": "c",
+        "stdio.h": "c",
+        "count_sort_multi.h": "c",
+        "shuffle_and_sort.h": "c"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "words": "c",
+        "stdio.h": "c",
+        "count_sort_multi.h": "c",
+        "shuffle_and_sort.h": "c",
+        "assert.h": "c",
+        "unistd.h": "c",
+        "scheduler.h": "c",
+        "types.h": "c",
+        "stdlib.h": "c",
+        "stddef.h": "c",
+        "wdinternals.h": "c",
+        "wd.h": "c"
+    }
+}

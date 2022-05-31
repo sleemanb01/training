@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "words": "c",
+        "stdio.h": "c",
+        "count_sort_multi.h": "c",
+        "cstdio": "c",
+        "type_traits": "c",
+        "typeinfo": "c"
+    }
+}
